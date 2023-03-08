@@ -20,4 +20,10 @@ h3 {
 }
 footer {
   text-align: center;
+  margin-top: 20px;
+}
+.secondary {
+  border: 1px solid whitesmoke;
+  padding: 20px;
+  border-radius: 5px;
 }
