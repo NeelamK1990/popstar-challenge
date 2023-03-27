@@ -30,20 +30,31 @@ h3 {
   font-family: "Playfair Display SC", serif;
 }
 p {
-  font-size: 17px;
+  font-size: 11px;
   font-family: "Poppins", sans-serif;
 }
 footer {
   text-align: center;
   margin-top: 20px;
 }
+.button {
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+}
 .coder {
   font-family: "Tangerine", cursive;
-  font-size: 25px;
+  font-size: 20px;
+}
+strong {
+  color: #7f64e9;
 }
 .secondary {
   border: 1px solid whitesmoke;
   padding: 20px;
   border-radius: 5px;
   margin-top: 20px;
+  font-size: 10px;
 }
